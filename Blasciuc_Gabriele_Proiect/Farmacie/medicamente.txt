@@ -1,0 +1,40 @@
+﻿  
+
+Paracetamol    Bayer          Comprimate          1600           21,5        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          21,5        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          21,5        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          21,5        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          21,5        29        Reteta    
+
+Tachipirina    Angelini       Comprimate          2373           23          44        Reteta    
+
+paracetamol    Bayer          Comprimate          6662           9           9         Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          21,5        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          2150        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          50             2150        29        Reteta    
+
+Paracetamol    Angelini       Comprimate          12006          2150        29        Reteta    
+
+c              Angelini       Comprimate          12006          2150        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          0           0         Fara_reteta
+
+Paracetamol    Bayer          Comprimate          12006          0           0         Fara_reteta
+
+Paracetamol    Angelini       Comprimate          12006          3           3         Reteta    
+
+Paracetamol    Angelini       Comprimate          12006          2150        29        Reteta    
+
+Paracetamol    Bayer          Comprimate          12006          2150        29        Reteta    
+
+Tachipirina    Angelini       Sirop               1248           3290        12        Fara_reteta
+
+Paracetamol    Bayer          Comprimate          12006          21          29        Reteta    
+

@@ -1,0 +1,13 @@
+C:\Users\blasc\Desktop\Farmacie\Farmacie\obj\Debug\Farmacie.csprojAssemblyReference.cache
+C:\Users\blasc\Desktop\Farmacie\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\blasc\Desktop\Farmacie\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\blasc\Desktop\Farmacie\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\blasc\Desktop\Farmacie\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\blasc\Desktop\Farmacie\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\obj\Debug\Farmacie.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\gabri\Desktop\PIU_Lab\Farmacie\Farmacie\obj\Debug\Farmacie.pdb
